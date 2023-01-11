@@ -6,6 +6,7 @@
 ## Sobre mim 🧔🏾
 ### Dados pessoais 🎲
     Thiago Lima Leite
+    Fron-end
     Casado, Brasileiro, Nascido em 12 de dezembro de 1996
     Reside em Mantiquira – Duque de Caxias – RJ
 ### Objetivos Possoais 🏹
