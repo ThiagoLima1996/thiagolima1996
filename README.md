@@ -9,11 +9,18 @@
     Casado, Brasileiro, Nascido em 12 de dezembro de 1996
     Reside em Mantiquira – Duque de Caxias – RJ
 ### Objetivos Possoais 🏹
-    Alcançar uma oportunidade na área da tecnologia da informação(seja como desenvolvedor ou estagiário, front-and ou back-and) onde possa, por meio do trabalho e comprometimento, obter crescimento profissional satisfatório para mim e para a empresa. Para tal, proponho-me a participar de treinamentos internos ou externos e/ou cursos de forma a aprender novas técnicas e aprimorar os meus conhecimentos.
+    Alcançar uma oportunidade na área da tecnologia da informação(seja como desenvolvedor ou estagiário, 
+    front-and ou back-and) onde possa, por meio do trabalho e comprometimento, obter crescimento 
+    profissional satisfatório para mim e para a empresa. Para tal, proponho-me a participar de treinamentos
+    internos ou externos e/ou cursos de forma a aprender novas técnicas e aprimorar os meus conhecimentos.
 ### Qualificações 🕶️
-    Autonomia intelectual (senso crítico, analítico e flexível), redação própria, verbalização, dinamismo, flexibilidade, organização, criatividade, objetividade, aprendizado rápido, foco no cliente e nos ideais da empresa, capacidade de trabalhar em equipe (respeitando as identidades e as diferenças).
+    Autonomia intelectual (senso crítico, analítico e flexível), redação própria, verbalização, dinamismo,
+    flexibilidade, organização, criatividade, objetividade, aprendizado rápido, foco no cliente e nos 
+    ideais da empresa, capacidade de trabalhar em equipe (respeitando as identidades e as diferenças).
 ### Skill 👨🏾‍🎓
-    Sou estudante de Ciência da Computação na universidade Estácio de Sá, me formo no final de 2025. Me dedico muito com o objetivo de me torna um desenvolver Full-Stack. Tenho muito vontade de aprender e determinação para evoluir. 
+    Sou estudante de Ciência da Computação na universidade Estácio de Sá, me formo no final de 2025. 
+    Me dedico muito com o objetivo de me torna um desenvolver Full-Stack. Tenho muito vontade de aprender
+    e determinação para evoluir. 
 #### Linguagens que já conheço e sei desenvolver 🧙🏾
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
