@@ -10,8 +10,9 @@
     Casado, Brasileiro, Nascido em 12 de dezembro de 1996
     Reside em Mantiquira – Duque de Caxias – RJ
 ### Objetivos Possoais 🏹
-    Alcançar uma oportunidade na área da tecnologia da informação(seja como desenvolvedor ou estagiário, 
-    front-and ou back-and) onde possa, por meio do trabalho e comprometimento, obter crescimento 
+    Eu estou em processor de mudança de carreira, Por isso estou em busca da minha primeira oportunidade
+    na área da tecnologia da informação (seja como desenvolvedor ou estagiário, 
+    front-and ou back-and) onde possa, por meio do meu trabalho e comprometimento, obter crescimento 
     profissional satisfatório para mim e para a empresa. Para tal, proponho-me a participar de treinamentos
     internos ou externos e/ou cursos de forma a aprender novas técnicas e aprimorar os meus conhecimentos.
 ### Qualificações 🕶️
