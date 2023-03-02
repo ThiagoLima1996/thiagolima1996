@@ -1,6 +1,7 @@
 
 # Olá! Eu sou o Thiago Lima e seja muito bem-vindo ao meu perfil ✌🏾
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoLima1996&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLima1996&layout=compact)]()
 
 ## Sobre mim 🧔🏾
