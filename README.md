@@ -7,7 +7,7 @@
 ## Sobre mim 🧔🏾
 ### Dados pessoais 🎲
     Thiago Lima Leite
-    Fron-end
+    Eng. computação/Front-end
     Casado, Brasileiro, Nascido em 12 de dezembro de 1996
     Reside em Mantiquira – Duque de Caxias – RJ
 ### Objetivos Possoais 🏹
@@ -21,8 +21,8 @@
     flexibilidade, organização, criatividade, objetividade, aprendizado rápido, foco no cliente e nos 
     ideais da empresa, capacidade de trabalhar em equipe (respeitando as identidades e as diferenças).
 ### Skill 👨🏾‍🎓
-    Sou estudante de Ciência da Computação na universidade Estácio de Sá, me formo no final de 2025. 
-    Me dedico muito com o objetivo de me torna um desenvolver Full-Stack. Tenho muito vontade de aprender
+    Sou estudante de Engenharia da Computação na CEFET, me formo no final de 2028. 
+    Me dedico muito com o objetivo de me torna um profissional de excelência. Tenho muito vontade de aprender
     e determinação para evoluir. 
 #### Linguagens que já conheço e sei desenvolver 🧙🏾
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
